@@ -7,3 +7,4 @@ plotly
 imblearn
 imbalanced-learn
 xgboost
+lightgbm
